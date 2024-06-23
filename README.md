@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🎓 Computer Science Graduate from Virginia Tech 
+- ⚡️ Proficient & experienced in Python, MySQL, AWS.
+- 💻 Looking for Software Engineering and ML Engineering roles. 
+
 <!--
 **akshita98/akshita98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
