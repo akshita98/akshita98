@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! I am passionate about applying my AI skills to solve real-world problems and create positive impact. Below you'll find a summary of my projects, experience, and skills.
+Welcome to my GitHub profile! I am passionate about applying my AI skills to solve real-world problems and create a positive impact. Below you'll find a summary of my projects, experience, and skills.
 
 - 🎓 Computer Science Graduate from Virginia Tech, specialized in Data Analytics & Artificial Intelligence. 
 - 💻 Seeking roles as a Data Scientist, ML Engineer, DL Engineer, or Data Analyst.
